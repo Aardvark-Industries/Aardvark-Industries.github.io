@@ -2,6 +2,7 @@
 ![The A-I logo](https://github.com/Aardvark-Industries.png)
 
 ## Projects
+- [UltraWFC](https://UltraWFC.jbritain.net)
 - [GitForum](https://aardvark-industries.github.io/GitForum/)
 
 ## Developers
